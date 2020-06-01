@@ -1,0 +1,15 @@
+C:\Users\Владелец\source\repos\MyFinalProject\bin\Debug\MyFinalProject.exe.config
+C:\Users\Владелец\source\repos\MyFinalProject\bin\Debug\MyFinalProject.exe
+C:\Users\Владелец\source\repos\MyFinalProject\bin\Debug\MyFinalProject.pdb
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.csprojAssemblyReference.cache
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\App.g.cs
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject_MarkupCompile.cache
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject_MarkupCompile.lref
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MainWindow.baml
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.g.resources
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.Properties.Resources.resources
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.csproj.GenerateResource.cache
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.exe
+C:\Users\Владелец\source\repos\MyFinalProject\obj\Debug\MyFinalProject.pdb
