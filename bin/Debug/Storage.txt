@@ -1,0 +1,9 @@
+VacuumCleaner|Cleaner3|Zekman|200|3000|blue
+VacuumCleaner|MiniVac|Motorist|99|1000|black
+WashingMachine|Washtronic|Mieele|500|8|5
+WashingMachine|Turbo3|Sansung|300|5|4,5
+FoodProcessor|Mixer|LJ|100|150|13
+FoodProcessor|Pro5|Fillips|150|200|18
+WashingMachine|Turbo3|Sansung|300|5|4,5
+VacuumCleaner|Cleaner3|Zekman|200|3000|blue
+  
